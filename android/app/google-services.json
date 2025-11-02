@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879397478645",
+    "project_id": "steam-game-price-calculator",
+    "storage_bucket": "steam-game-price-calculator.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879397478645:android:c5d38376435128d26425bc",
+        "android_client_info": {
+          "package_name": "com.example.tugas_akhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBAraKjRqRDSLwkHr5gomtvt-8P9xXGLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
